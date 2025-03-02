@@ -62,10 +62,10 @@ This project focuses on setting up a **Virtual Machine (VM)** infrastructure on 
 
 ---
 
-## Repository & Demo
+**Repository & Demo**
 
-- **Report Document:** `M23AID007_Assignment2_Document Report.pdf`
-- **Architecture Diagram:** `M23AID007_Assignment2_Architecture Diagram.png`
+- **Source Code**: https://github.com/AtrizRay/VCC_Assignment2.git
+- **Video Demonstration**: (https://youtu.be/4uWfhzRE9zI?si=GHMZnMeURC8FyNBV)
 
 ---
 
